@@ -1,10 +1,10 @@
 const fs = require("fs");
 
 
-//sync write....
+//sync write.... Blocking Request
 // fs.writeFileSync('./text.txt', 'Hey there!, How are you Tushar');
 
-//async write....
+//async write.... Non Blocking Request
 // fs.writeFile('./text.txt', 'Hello World Async', (err)=> {});
 
 
