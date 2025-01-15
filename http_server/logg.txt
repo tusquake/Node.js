@@ -6,3 +6,21 @@
 1736944287383 /contact
 
 1736944294364 /about
+
+1736947113613 /about?myname=Tushar
+
+1736948077071 /about
+
+1736948292683 /about?myname=Tushar
+
+1736948334851 /about?myname=Soni
+
+1736948407559 /about
+
+1736948415999 /about?search_query=Javascript
+
+1736948430534 /search?search_query=Javascript
+
+1736954107690 /signup
+
+1736954215441 /signup
