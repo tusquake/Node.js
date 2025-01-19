@@ -86,6 +86,8 @@ app.get('/users', (req, res) => {
     res.send(html); // Send the HTML as a response
 });
 
+
+
 // Start the server
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);

@@ -1,8 +1,10 @@
 const express = require('express');
 const fs = require('fs').promises; // Use fs.promises for async operations
+exports.fs = fs;
 const path = require('path');
 
 const app = express();
+exports.app = app;
 const PORT = 8000;
 
 // Middleware to parse JSON request bodies
